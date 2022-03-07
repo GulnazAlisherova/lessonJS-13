@@ -4,5 +4,5 @@ fetch('/example.txt')
       return  response.text();
     })
     .then(text =>{
-      h1.textContent
+      h1.textContent  //
     })
