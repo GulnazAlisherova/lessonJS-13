@@ -1,1 +1,1 @@
-document.querySelector('h1')
+const  document.querySelector('h1');
