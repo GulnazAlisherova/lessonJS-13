@@ -3,4 +3,6 @@ fetch('/example.txt')
     .then(response => {
       return  response.text();
     })
-    .then()
+    .then(text =>{
+      h1.textContent
+    })
